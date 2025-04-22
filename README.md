@@ -32,3 +32,5 @@ After pressing enter, it will ask what instrument you're playing. Press whatever
 You'll now have access to the game's menu, woohoo!!!!!
 
 To navigate the menu, use the Strum Up and Strum Down keys to move up and down, and the colored frets to select options.
+
+To access your profile settings to change things like note speed, highway length, gamepad mode **(highly recommended for keyboard players)**, press whatever you bound the Start Button to.
