@@ -19,11 +19,13 @@
 After binding your controls, press the key you assigned to the start button (in the example, I picked escape). 
 
 That will bring up the "Choose a Profile" menu at the bottom of the screen.
+
 ![Choose a Profile](https://github.com/dipskii/clone-hero-setup-guide/blob/master/1.png "Choose a Profile")
 
 Press \<Create Profile\>, type in your name, and press enter.
 
 After pressing enter, it will ask what instrument you're playing. Press whatever key you assigned to green (in the example, I picked D).
+
 ![Create Profile](https://github.com/dipskii/clone-hero-setup-guide/blob/master/2.png "Create Profile")
 
 You'll now have access to the game's menu, woohoo!!!!!
