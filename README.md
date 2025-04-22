@@ -1,6 +1,7 @@
 # Clone Hero First Time Setup Guide
 1. Download the game from [their website](https://clonehero.net/)
 2. Open the game, press **Space** to bind controls
+
   The actions you'll need to bind for playing lead guitar are the following:
 #### Actions : Example Key
 - Green : D
